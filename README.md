@@ -21,7 +21,7 @@ Estou aberto a novas conexões e colaborações! Sinta-se à vontade para entrar
 
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
           
           
 
