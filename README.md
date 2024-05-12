@@ -39,8 +39,8 @@ Estou aberto a novas conexões e colaborações! Sinta-se à vontade para entrar
 
 <div>
 <a href="https://github.com/StarkVander">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarkVander&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=StarkVander&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
           
