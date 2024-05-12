@@ -35,10 +35,3 @@ Estou aberto a novas conexões e colaborações! Sinta-se à vontade para entrar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" />
 </div>
-## Estatísticas GitHub
-
-<div>
-<a href="https://github.com/StarkVander">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarkVander&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=StarkVander&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
