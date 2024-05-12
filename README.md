@@ -45,7 +45,7 @@ Estou aberto a novas conexões e colaborações! Sinta-se à vontade para entrar
 
 ## Animação de cobrinha
 
-[Snake animation](https://github.com/StarkVander/StarkVander/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/StarkVander/StarkVander/blob/output/github-contribution-grid-snake.svg)
           
           
           
