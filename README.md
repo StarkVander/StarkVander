@@ -43,5 +43,21 @@ Entre em contato comigo aqui pelo GitHub.
 
 Ferramentas e Tecnologias
 <div style="display: inline;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="40" height="40" /> </div>
-Estou aprendendo
-<div style="display: inline;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" /> </div>
+Estou me especializando em Inteligência Artificial (XPE Bootcamp)
+Atualmente focado nos seguintes cursos:
+
+Conceitos e Aplicações em Aprendizado de Máquina
+
+Inteligência Artificial como Serviço
+
+Aprendizado Não-supervisionado
+
+Algoritmos Supervisionados
+
+Seleção de Modelos
+
+Interpretabilidade de Modelos
+
+Avanços em IA Generativa e suas Aplicações em Ciência de Dados
+
+IA Generativa Aplicada à Engenharia de Dados
