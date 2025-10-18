@@ -1,37 +1,47 @@
-# Olá! 👋
+Olá! 👋
+Sobre Mim
+Sou Vander, Senior na área financeira, atuando em um grande banco global. Minha rotina envolve contato direto com a equipe de Madri, trabalhando com processos de carga de preços, Batch, Asset Control e Murex Latam. Possuo sólida experiência técnica e estratégica, conectando tecnologia, automação e finanças.
 
-## Sobre Mim
-Sou o Vander, um apaixonado por programação e engenharia da computação. Graduado em Engenharia da Computação, tenho uma sólida formação teórica e prática em diversas áreas da computação.
+Atualmente, também desempenho o papel de Desenvolvedor de Power Platform e RPA (Automação Robótica de Processos) com Python, impulsionando a transformação digital e automação de processos no ambiente bancário.
 
-## Principais Tecnologias
-- 💻 **Python:** Tenho expertise em desenvolvimento Python, desde scripts simples até aplicações complexas.
-- 💻 **HTML / CSS:** Conhecimento e pratica em desenvolvimento WEB.
-- 🚀 **C/C++:** Proficiente em C/C++, desenvolvo software eficiente e de alto desempenho.
-- 📊 **VBA (Visual Basic for Applications):** Domino VBA para automação de tarefas em softwares Microsoft como Excel e Access.
-- 🔌 **Power BI:** Utilizo o Power BI para análise de dados e criação de visualizações interativas.
-  
-## Experiência
-Ao longo da minha jornada, desenvolvi uma variedade de projetos, desde sistemas embarcados até análise de dados e automação de processos. Meu objetivo é sempre utilizar tecnologia para resolver problemas e criar soluções inovadoras.
+Graduando em Engenharia da Computação, compilo conhecimentos de engenharia, programação e negócios, com foco em soluções inteligentes e escaláveis.
 
-## Como Posso Ajudar
-Estou sempre em busca de novos desafios e oportunidades de colaboração. Se você precisa de ajuda com Python, C/C++, VBA, Power BI ou qualquer outro projeto relacionado à engenharia da computação, estou aqui para ajudar e aprender...
+Principais Tecnologias
+💼 Financeiro/Bancário: Batch, Asset Control, Murex Latam, integração e automação de cargas de preço
 
-## Vamos nos Conectar
-Estou aberto a novas conexões e colaborações! Sinta-se à vontade para entrar em contato comigo aqui no GitHub.
+💻 Python: Automação, scripts, soluções de RPA e aplicações robustas
 
-## Ferramentas e Tecnologias
+📊 Power Platform & Power BI: Desenvolvimento de automações, relatórios e visualizações para negócios
 
-<div style="display: inline;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-</div>
+🤖 RPA: Criação de robôs para otimização de rotinas financeiras
 
-## Estou aprendendo
-<div style="display: inline;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" />
-</div>
+🧑‍💼 VBA/Excel/Access: Automação e análise de dados corporativos
+
+💻 HTML/CSS: Desenvolvimento Web
+
+🚀 C/C++: Softwares eficientes para alto desempenho
+
+Experiência
+Mais de uma década atuando em projetos de tecnologia para o setor financeiro, especialmente em bancos globais, conciliando:
+
+Processos de integração internacional
+
+Automação de operações críticas
+
+Desenvolvimento de soluções em Power Platform e RPA
+
+Análise e visualização de dados para decisões estratégicas
+
+Como posso ajudar
+Busco desafios que unem tecnologia e negócios, colaborando para automações, integrações financeiras, projetos de Python, C/C++, VBA, Power BI, Murex, Asset Control, Power Platform e RPA.
+
+Se busca um parceiro para elevar sua operação com tecnologia, otimizar processos ou implantar soluções inteligentes, estou pronto para colaborar e agregar valor!
+
+Vamos nos conectar
+Aberto para trocas sobre tecnologia, inovação bancária, automação, ciência de dados e engenharia!
+Entre em contato comigo aqui pelo GitHub.
+
+Ferramentas e Tecnologias
+<div style="display: inline;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="40" height="40" /> </div>
+Estou aprendendo
+<div style="display: inline;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" /> </div>
