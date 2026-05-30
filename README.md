@@ -92,16 +92,7 @@ Busco desafios que unem **tecnologia, dados e estratégia de negócio**:
 ## 🌐 Vamos nos conectar
 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/byvanderviana/)** — Acompanhe minha transição para IA e conteúdos sobre automação inteligente
-- 💻 **[GitHub](https://github.com/byvanderviana)** — Projetos de automação, Python e evolução para IA
 - 📧 **Contato:** Disponível via LinkedIn
-
----
-
-## 📊 GitHub Stats
-
-![Vander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byvanderviana&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byvanderviana&layout=compact&theme=dark)
 
 ---
 
