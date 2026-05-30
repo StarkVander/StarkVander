@@ -68,7 +68,7 @@ Combinando minha experiência em **Python, SQL e Power Platform** com **Machine 
 
 | Empresa | Cargo | Período |
 |---------|-------|---------|
-| **SX Tools** | Especialista em Operações II — Power Platform & Analytics | abr/2025 - Atual |
+| **SX Tools** | Especialista em Operações II — Power Platform & Analytics | abr/2026 - Atual |
 | **SX Tools** | Especialista em Operações II | nov/2022 - abr/2025 |
 | **Qualicorp** | Analista Financeiro I | out/2021 - out/2022 |
 
